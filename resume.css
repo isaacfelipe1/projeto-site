@@ -174,3 +174,12 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+nav#menu ul{
+List-style:none;
+text-transform:uppercase;
+
+}
+nav#menu li{
+display:inline-block;
+}
+
